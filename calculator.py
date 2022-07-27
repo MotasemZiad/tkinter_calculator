@@ -169,6 +169,8 @@ class Calculator:
     def add_to_expression(self, value):
         if(self.current_expression == '0' and value != '.'):
             self.current_expression = ''
+        if(self.current_expression == '' and value == '.'):
+            self.current_expression += '0'
         self.current_expression += str(value)
         self.update_label()
 
