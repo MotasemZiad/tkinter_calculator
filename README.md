@@ -9,10 +9,13 @@ A powerful calculator with multiple themes using python [tkinter](https://docs.p
 - Square 
 - Square root
 
-# Screenshots
+## Screenshots
 ![Light Theme](./images/light_screenshot.png)
 ![Dark Theme](./images/dark_screenshot.png)
 
+<br>
 
+## Download
+You can download the executable file for Windows [here](https://drive.google.com/file/d/1AX9UF7FtjNMyOPAA3I9fl52cLbhOy1t7/view?usp=sharing)
 
 
