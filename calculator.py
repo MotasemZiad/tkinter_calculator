@@ -167,7 +167,7 @@ class Calculator:
         self.label.config(text=self.current_expression[:11])
 
     def add_to_expression(self, value):
-        if(self.current_expression == '0'):
+        if(self.current_expression == '0' and value != '.'):
             self.current_expression = ''
         self.current_expression += str(value)
         self.update_label()
