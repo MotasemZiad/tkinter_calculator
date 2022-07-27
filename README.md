@@ -1,5 +1,5 @@
 # Python-bascis
-A powerful calculator using python [tkinter](https://docs.python.org/3/library/tkinter.html) GUI package.
+A powerful calculator with multiple themes using python [tkinter](https://docs.python.org/3/library/tkinter.html) GUI package.
 
 ## Operations:
 - Addition 
