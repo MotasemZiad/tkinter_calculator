@@ -1,4 +1,4 @@
-# Python-bascis
+# Calculator
 A powerful calculator with multiple themes using python [tkinter](https://docs.python.org/3/library/tkinter.html) GUI package.
 
 ## Operations:
