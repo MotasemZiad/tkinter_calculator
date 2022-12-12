@@ -1,5 +1,5 @@
 # Calculator
-A powerful calculator with multiple themes using python [tkinter](https://docs.python.org/3/library/tkinter.html) GUI package.
+A powerful calculator with multiple themes using python [tkinter](https://docs.python.org/3/library/tkinter.html) GUI package which is the standard Python interface to the Tcl/Tk GUI toolkit.
 
 ## Operations:
 - Addition 
